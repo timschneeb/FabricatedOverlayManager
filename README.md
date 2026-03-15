@@ -1,3 +1,3 @@
-# Migrated to https://github.com/timschneeb/FabricatedOverlayManager
+# FabricatedOverlayManager
 
-The fork has diverged significantly and is becoming a detached project.
+Create fabricated overlays easily. Designed for Android 14, for use with https://github.com/timschneeb/postexploitation-toolbox-android on unrooted devices. 
